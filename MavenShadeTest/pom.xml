@@ -53,8 +53,6 @@
                                     <exclude>com.google.code.findbugs:jsr305</exclude>
                                     <exclude>org.slf4j:*</exclude>
                                     <exclude>log4j:*</exclude>
-<!--                                    <exclude>org.apache.maven.shared.transfer.artifact.resolve.ArtifactResolverException</exclude>-->
-                                    <exclude>org.codehaus.plexus.util.xml.XmlStreamWriter</exclude>
                                 </excludes>
                             </artifactSet>
                             <transformers>
